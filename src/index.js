@@ -8,7 +8,10 @@ import { reducer } from './store/reducers'
 import 'bulma/css/bulma.css';
 import './styles.scss';
 
+// STEP 2, SETUP STORE, PROVIDER AND REDUCER
+
 // create store and pass in reducer i.e STORE = Global state
+
 const store = createStore(reducer);
 
 // Create provider and pass in store prop for entire APP.
