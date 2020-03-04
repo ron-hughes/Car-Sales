@@ -1,12 +1,6 @@
 import React from 'react';
 
 
-
-
-// Add events and event handlers in UI
-
-
-
 const AdditionalFeature = props => {
   return (
     <li>

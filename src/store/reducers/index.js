@@ -1,9 +1,7 @@
 import {  ADD_FEATURE  } from "../actions"
 import {  REMOVE_FEATURE  } from "../actions"
 
-// step 1: Set up "empty" reducer and initial state
 
-// step 6: write the reducer logic for the actions
 
 
 export const initialState = {
